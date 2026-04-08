@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmaterial_ui_jmxs=self.webpackChunkmaterial_ui_jmxs||[]).push([[256],{7291:function(e,t,n){n.r(t),n.d(t,{Head:function(){return a}});var l=n(7294);t.default=()=>l.createElement("main",null,l.createElement("h1",{style:{color:"white"}},"Lo siento, por aqui no es."));const a=()=>l.createElement("title",null,"Not found")}}]);
+//# sourceMappingURL=component---src-pages-404-jsx-bbe2adde75d7497c1535.js.map
